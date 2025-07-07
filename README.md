@@ -1,6 +1,6 @@
 Hello 👋
 
-Welcome to my GitHub profile! I'm Fatemeh Moghadasian ,M.Sc Student in Aerospace Engineering at Amirkabir University of Technology.Here's a little about me :
+Welcome to my GitHub profile! I'm Fatemeh Moghadasian. Here's a little about me :
    - 🔭 I’m currently working on Local Positioning Systems 
    - 🌱 I'm continuously learning and exploring new technologies in aerospace
    - 📫 How to reach me: fatemeh.moghadasian@aut.ac.ir
